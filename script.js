@@ -22,7 +22,7 @@ setTimeout(() => {
                     span1.innerHTML = "1";
                     setTimeout(() => {
                       span1.innerHTML = "HAPPY INDEPENDENCE DAY";
-                    });
+                    },1000);
                   }, 1000);
                 }, 1000);
               }, 1000);
